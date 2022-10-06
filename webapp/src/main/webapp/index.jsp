@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to UAE !!! </h1>
+<h1> Welcome to UAE !!! </h1>
 
